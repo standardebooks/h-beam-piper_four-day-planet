@@ -48,7 +48,7 @@
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID43e55dad06e70</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/H._Beam_Piper</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/H._Beam_Piper#Federation_series</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-beam-piper_four-day-planet</meta>
 		<dc:creator id="author">H. Beam Piper</dc:creator>
 		<meta property="file-as" refines="#author">Piper, H. Beam</meta>
