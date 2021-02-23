@@ -1,10 +1,7 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-abbr.temperature{
-	font-variant: all-small-caps;
-}
-
+abbr.temperature,
 abbr.era{
 	font-variant: all-small-caps;
 }
