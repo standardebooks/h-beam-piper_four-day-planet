@@ -42,7 +42,7 @@
 		<meta property="group-position" refines="#collection-1">2</meta>
 		<dc:description id="description">A young reporter gets caught up in intrigue and adventure chasing tallow-wax bounties with the monster hunters on Fenris, a planet with a two-thousand-hour day and four-day year.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Reminiscent of old whaling stories, &lt;i&gt;Four-Day Planet&lt;/i&gt; follows the story of Walter Boyd, a scrappy 17-year-old reporter working for his father at the &lt;i&gt;Port Sandor Times&lt;/i&gt;. Walt gets tied up in the adventures of the sea-monster hunters on Fenris—a barely-habitable planet with a 2,000-hour day. The prized-and only-commodity on Fenris is tallow-wax, a miraculous material harvested from the dangerous seas of the planet.&lt;/p&gt;
+			&lt;p&gt;Reminiscent of old whaling stories, &lt;i&gt;Four-Day Planet&lt;/i&gt; follows the story of Walter Boyd, a scrappy 17-year-old reporter working for his father at the &lt;i&gt;Port Sandor Times&lt;/i&gt;. Walt gets tied up in the adventures of the sea-monster hunters on Fenris—a barely-habitable planet with a 2,000-hour day. The prized—and only—commodity on Fenris is tallow-wax, a miraculous material harvested from the dangerous seas of the planet.&lt;/p&gt;
 			&lt;p&gt;While being set in a grand sci-fi universe, the book packs in more about intrigue, betrayal, and the grit required to survive on a backwater planet of the Federation. The book was later re-published as a “two-for-one” with &lt;i&gt;Lone Star Planet&lt;/i&gt; (originally titled &lt;i&gt;A Planet for Texans&lt;/i&gt;).&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
